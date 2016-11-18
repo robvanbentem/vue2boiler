@@ -1,7 +1,7 @@
 {
-  "name": "play",
+  "name": "vue2boiler",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Vue.js 2.0 boilerplate",
   "author": "Rob van Bentem <robvanbentem@gmail.com>",
   "private": true,
   "scripts": {

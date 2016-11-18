@@ -1,6 +1,4 @@
-# play
-
-> A Vue.js project
+# Vue2Boiler
 
 ## Build Setup
 
